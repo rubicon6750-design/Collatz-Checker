@@ -8,4 +8,4 @@ https://github.com/Textualize/rich
 # Python version:
 3.11.5
 
-# (Releases)[https://github.com/rubicon6750-design/Collatz-Checker/releases]
+# [Releases](https://github.com/rubicon6750-design/Collatz-Checker/releases)
